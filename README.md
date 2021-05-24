@@ -7,5 +7,5 @@
 
 
 
-📫 How to reach me: https://threedotsinarow.substack.com
+
 
