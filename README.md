@@ -2,7 +2,8 @@
 
 ## I Love Building Demos 💙
 
- - see my portfolio at [here](https://bit.ly/portfolioDivy)
+ - see my portfolio at [here](https://divyn.github.io/)
+ - my other github is [this](https://github.com/divyasshree-BQ/)
  - I post educational info on [my twitter](https://x.com/divyasshree_)
 
 ## Languages
