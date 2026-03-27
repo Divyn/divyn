@@ -2,8 +2,8 @@
 
 ## I Love Building Demos 💙
 
- - see my content at [here](https://cryptogrammar.xyz/)
- - my other github is [this](https://github.com/divyasshree-BQ/)
+ - See my independent publication[Cryptogrammar](https://cryptogrammar.xyz/)
+ - My other GitHub is [this](https://github.com/divyasshree-BQ/)
  - I post educational info on [my twitter](https://x.com/divyasshree_)
 
 ## Languages
