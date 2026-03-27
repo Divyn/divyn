@@ -2,20 +2,21 @@
 
 ## I Love Building Demos 💙
 
- - See my independent publication[Cryptogrammar](https://cryptogrammar.xyz/)
+ - See my independent publication [Cryptogrammar](https://cryptogrammar.xyz/)
  - My other GitHub is [this](https://github.com/divyasshree-BQ/)
  - I post educational info on [my twitter](https://x.com/divyasshree_)
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 
 ## Tools and Technologies
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
