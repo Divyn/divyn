@@ -13,7 +13,7 @@ See my publication **[Cryptogrammar](https://cryptogrammar.xyz/)** | [Twitter](h
 - [Funding Rate Arbitrage](https://github.com/divyn/hyperliquid-binance-funding-arb) — Live cross-venue funding rate spreads (Hyperliquid vs Binance)
 - [Bitquery → S3 Pipeline](https://github.com/divyn/bitquery-s3-bucket) — Real-time Pump.fun data from Bitquery to S3
 - [Crypto Trading MCP](https://github.com/divyn/crypto-trading-mcp) — Model Context Protocol server for crypto trading
-- [Astronomy ML](https://github.com/divyn/Data-Science-for-Astronomy) — Machine learning applications in astronomy
+
 
 → **[Full project catalog →](https://github.com/divyn/awesome-list)** (90+ repos across 15 categories)
 
