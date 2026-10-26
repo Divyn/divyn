@@ -2,7 +2,7 @@
 
 I've helped builders, traders, and auditors use on-chain data for years. Role-agnostic and focused on being useful — but I have the math and systems depth when it counts.
 
-See my publication **[Cryptogrammar](https://cryptogrammar.com/)** | [Twitter](https://x.com/divyasshree_) | [Other GitHub](https://github.com/divyasshree-BQ/)
+One click RWA baskets buy **[chaotic.markets](chaotic.markets)** | [Twitter](https://x.com/divyasshree_) | [Other GitHub](https://github.com/divyasshree-BQ/)
 
 ---
 
